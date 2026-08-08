@@ -1,0 +1,22 @@
+{
+  "retentionDays": 15,
+  "snapshots": [
+    {
+      "date": "2026-08-09",
+      "updatedAt": "2026-08-09 19:00",
+      "totals": {
+        "delivered": 14835,
+        "undelivered": 758,
+        "waveTasks": 0
+      },
+      "warehouses": [
+        { "name": "恒置-马来西亚海外仓", "delivered": 1016, "undelivered": 166 },
+        { "name": "泰博-泰国海外仓", "delivered": 4191, "undelivered": 125 },
+        { "name": "颢远-印尼海外仓", "delivered": 6030, "undelivered": 245 },
+        { "name": "BELINDA-菲律宾海外仓", "delivered": 3276, "undelivered": 3 },
+        { "name": "MMI PACKING HOUSE-印尼海外仓", "delivered": 322, "undelivered": 219 },
+        { "name": "PH-BINONDO-菲律宾海外仓", "delivered": 0, "undelivered": 0, "error": "本次未取得数据，未计入汇总" }
+      ]
+    }
+  ]
+}
